@@ -47,27 +47,18 @@ HospitalityIQ is an AI revenue intelligence layer that aggregates data, detects 
 |--------|----------|--------|
 | Daily reporting time | 3.5 hrs | < 30 min |
 | Anomaly detection lag | 24–48 hrs | < 2 hrs |
-| Pricing confidence (self-reported) | 5.2/10 | 8+/10 |
-| Weekly active users at 30 days | — | 70% |
+
 
 ---
 
-## Key Learnings
+## 🔗 Code Repository
 
-1. **Insight gap > data gap** — Hotels have more data than ever; they lack the speed to act on it
-2. **Trust before action** — Built an "explain my reasoning" feature so users see 2–3 weeks of accurate predictions before acting on recommendations
-3. **Email beats dashboards for alerts** — Daily inbox briefing had 3x higher engagement than the dashboard equivalent
+This case study documents the product decisions behind the HospitalityIQ automation system.
 
----
+**[View Code on GitHub →](https://github.com/cloudbyharsh/Hospitality-IQ-Automation)**
 
-## Status
-- [x] Discovery interviews (8 users)
-- [x] Problem definition & PRD v1
-- [x] Streamlit prototype
-- [ ] Beta with 3 hotel partners
-- [ ] Pricing model validation
-- [ ] v1 launch
-
----
-
-*Built by Harsh Shah | [linkedin.com/in/harshashwinshah](https://www.linkedin.com/in/harshashwinshah/)*
+The code repo includes:
+- Data ingestion scripts (PMS, OTA, competitor scrapers)
+- OpenAI API integration for anomaly detection
+- Streamlit dashboard source
+- PostgreSQL schema and migration files
