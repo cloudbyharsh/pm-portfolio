@@ -61,14 +61,15 @@ PM Lens: Pain → Hypothesis → Build → Measure
 ## 📡 Learning in Public
 
 Documenting my PM transition through a 30-day LinkedIn series.
-Follow: https://linkedin.com/in/cloudbyharsh
+Follow: https://www.linkedin.com/in/harshashwinshah/
 
 ---
 
 ## 🤝 Let's Connect
 
-- LinkedIn: https://linkedin.com/in/cloudbyharsh
+- LinkedIn: https://www.linkedin.com/in/harshashwinshah/
 - GitHub: https://github.com/cloudbyharsh
 - Email: haarsh.shahh@gmail.com
 
 Open to PM roles in B2B SaaS — Toronto or remote.
+
