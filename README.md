@@ -10,11 +10,11 @@ This portfolio shows the systems I've built, the problems I've solved, and the P
 
 ## 🔍 What I Build
 
-| Area | What |
-|------|------|
-| 🏨 **HospitalityIQ** | AI-powered analytics platform for hotel revenue managers |
-| 🤖 **CS Automation** | Automated customer health scoring & renewal workflows |
-| 🛠️ **Schema Checker** | Internal tool to validate data pipelines across integrations |
+| Area | Write-Up | Code |
+|------|----------|------|
+| 🏨 **HospitalityIQ** | [Case Study](01-product-case-studies/hospitality-iq/README.md) | [GitHub →](https://github.com/cloudbyharsh/Hospitality-IQ-Automation) |
+| 🤖 **CS Automation** | [Case Study](01-product-case-studies/cs-automation/README.md) | [GitHub →](https://github.com/cloudbyharsh/cs-automation) |
+| 🛠️ **Schema Checker** | [Tool Overview](02-tools-built/schema-checker/README.md) | [GitHub →](https://github.com/cloudbyharsh/schemacheckertool) |
 
 ---
 
@@ -72,4 +72,5 @@ Follow: https://www.linkedin.com/in/harshashwinshah/
 - Email: haarsh.shahh@gmail.com
 
 Open to PM roles in B2B SaaS — Toronto or remote.
+
 
