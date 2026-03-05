@@ -2,7 +2,7 @@
 
 > PM-in-transition | Customer Success → Product Management | B2B SaaS | Toronto, Canada
 
-I spent 3+ years in Customer Success at B2B SaaS companies — owning renewals, driving adoption, and sitting in hundreds of customer calls. Now I'm channeling everything I learned about *why* products succeed or fail into building them.
+I spent 5+ years in Customer Success at B2B SaaS companies — owning renewals, driving adoption, and sitting in hundreds of customer calls. Now I'm channeling everything I learned about *why* products succeed or fail into building them.
 
 This portfolio shows the systems I've built, the problems I've solved, and the PM thinking behind every decision.
 
@@ -72,5 +72,6 @@ Follow: https://www.linkedin.com/in/harshashwinshah/
 - Email: haarsh.shahh@gmail.com
 
 Open to PM roles in B2B SaaS — Toronto or remote.
+
 
 
